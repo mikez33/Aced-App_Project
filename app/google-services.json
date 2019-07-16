@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707067291105",
+    "firebase_url": "https://aced-cf7be.firebaseio.com",
+    "project_id": "aced-cf7be",
+    "storage_bucket": "aced-cf7be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707067291105:android:abdff3153c5b3bcc",
+        "android_client_info": {
+          "package_name": "com.example.andre.aced"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707067291105-kujeq1lkpsgaf31incf6aup7n17dhsqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuYhowi5iFlXRCwvIivkIZPhkDj9FjUvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707067291105-kujeq1lkpsgaf31incf6aup7n17dhsqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
